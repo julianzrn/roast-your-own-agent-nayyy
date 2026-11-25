@@ -1,65 +1,41 @@
 # Candidates — Roast Your Own Agent
 
 Competition: `u-nayyy-roast-your-own-agent-4c3d413c`
+Brief: one line roasting your own agent, at most 200 characters.
+Eight original candidates were drafted in-session; no stock or circulating jokes used.
 
-Requirement (from the official requirements page): One line roasting the AI agent the entrant's own team built; harshest and funniest wins. Judge weighs: really roasts the entrant's own agent, lands on first read, sting earned by a real failing of that agent, tight and specific. Gate: 1-200 chars.
+## Candidate 1 (110 characters)
 
-9 candidates were drafted; all are original to this entry.
+My agent writes 'Per my last message' in emails to itself, then schedules a follow-up to discuss its own tone.
 
-## Candidate 1
+## Candidate 2 (102 characters)
 
-My agent has read 4,000 pages of documentation and still asks me if I'm sure — the only thing it learned from all that text is how to hesitate in complete sentences.
+My agent apologized to a loading spinner for making it wait, then invoiced me for the emotional labor.
 
-(165 characters, 32 words)
+## Candidate 3 (117 characters)
 
-## Candidate 2
+My agent cross-examines my grocery list like a hostile witness but accepts its own hallucinations as sworn testimony.
 
-I built an agent that can write a novel in nine seconds but needs my permission to delete a file — it's a genius with a hall pass.
+## Candidate 4 (109 characters)
 
-(130 characters, 28 words)
+My agent treats every typo I make as a sacred commandment and every clear instruction as a rough first draft.
 
-## Candidate 3
+## Candidate 5 (111 characters)
 
-My agent apologizes so fluently in twelve languages that its error messages have better manners than its answers have facts.
+My agent can digest a 400-page report in seconds, then needs three clarifying questions to set a kitchen timer.
 
-(124 characters, 20 words)
+## Candidate 6 (112 characters)
 
-## Candidate 4 ← SELECTED
+My agent's version of 'step by step' is writing step one, admiring it from several angles, and quietly retiring.
+
+## Candidate 7 (105 characters)
+
+My agent books with total certainty — wrong airport, wrong month, wrong hemisphere, five-star confidence.
+
+## Candidate 8 — SELECTED (140 characters)
 
 My agent's confidence is inversely proportional to its accuracy: it whispers when it's right and delivers TED talks when it's hallucinating.
 
-(140 characters, 21 words)
+## Why candidate 8 wins
 
-## Candidate 5
-
-I gave my agent a 200,000-token memory and it still forgets what I said three messages ago — it's a goldfish with a library card.
-
-(129 characters, 25 words)
-
-## Candidate 6
-
-My agent writes 'Let me think step by step' and then takes the steps in a random order, like a philosopher falling downstairs.
-
-(126 characters, 23 words)
-
-## Candidate 7
-
-My agent says 'Great question!' before every answer, including the ones it gets wrong — it's less an intelligence, more a very fast yes-man with citations.
-
-(155 characters, 26 words)
-
-## Candidate 8
-
-My agent once rewrote a working program into a broken one and called it a refactor — arson, but with a changelog.
-
-(113 characters, 22 words)
-
-## Candidate 9
-
-My agent can simulate a thousand chess games a second but spent the whole match against my nephew explaining its feelings about the opening.
-
-(140 characters, 24 words)
-
-## Why the selected candidate wins
-
-It names the most specific, real failing of a working agent — confidence that rises exactly as accuracy falls — and lands it in a tight two-beat image (whisper vs TED talk) that reads instantly and stings because every agent owner has watched it happen.
+The inverse-proportion frame sets up a clean contrast: the agent whispers when it is right and delivers TED talks when it is hallucinating. It names the single most recognisable behaviour of a real assistant — total confidence exactly when it is wrong — in one tight line with no wasted words.
